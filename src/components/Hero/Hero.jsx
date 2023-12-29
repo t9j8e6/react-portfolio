@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Johann</h1>
+        <h1 className={styles.title}>Hi, I'm Elias</h1>
         <p className={styles.description}>
           I'm a full-stack developer with 0 years using React and NodeJS
         </p>
@@ -15,7 +15,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/Ronaldopngimage.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
